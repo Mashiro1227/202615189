@@ -16,7 +16,7 @@ void main() {
     System.out.printf("%s님의 몸무게는 ?", name);
     weight = keyboard.nextDouble();
 
-    System.out.printf("%s님의 나이는 %d살, ")
+    System.out.printf("%s님의 나이는 %d살, ");
 
 
 
